@@ -1,1 +1,38 @@
+caption{
+	font-family: Georgia ;
+	font-size : 20px ;
+}
+table {
+	text-transform: uppercase;
+	box-sizing: border-box;
+	width: 100%;
+	border-collapse: collapse;
+}
 
+th,
+td {
+	border: 1px solid black;
+	padding: 10px;
+	text-align: left;
+}
+
+th {
+	background-color: #9C92915C;
+	font-family: courier;
+	font-weight: 800 ;
+}
+
+li {
+	list-style: square;
+}
+
+.header-row {
+	background-color: red;
+	color: white;
+	
+}
+
+.section {
+	font-weight: bold;
+	background-color: #0000001A;
+}
